@@ -1,0 +1,21 @@
+# Archives
+*.zip
+*.gz
+*.tar
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+
+# Temporary files
+~$*
+*.tmp
+
+# HEIC image files (not universally renderable)
+*.HEIC
+
+# Files exceeding GitHub size limits
+Archive/Rough Draft-20200517T194125Z-001.zip
+Archive/Rough Draft V1.5/Punja, White, Volk research papers with permission to use images/Papers/Punja/ALL/The bud rot pathogens infecting cannabis  Cannabis sativa L.  marijuana  inflorescences  symptomology  species identification  pathogenicity and biolo(1).pdf
+Publishers/Acres USA/The Mycology of Cannabis..V1 Acres.docx
+Archive/Rough Draft-20200517T194125Z-001.zip
